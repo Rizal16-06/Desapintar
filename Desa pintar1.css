@@ -15,7 +15,6 @@ body{
     overflow: hidden;
     position: relative;
     font-family: 'Roboto';
-    border: 1px solid black;
  }
  .navbar{
     display: flex;
