@@ -372,7 +372,7 @@ body{
 .sec_3 .sec3_hero{
     display: flex;
     width: 100%;
-    justify-content: space-between;
+    gap:80px;
 }
 .sec_3 .sec3_hero2{
     display: flex;
