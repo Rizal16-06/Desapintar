@@ -372,13 +372,13 @@ body{
 .sec_3 .sec3_hero{
     display: flex;
     width: 100%;
-    gap:80px;
+    gap: 50px;
 }
 .sec_3 .sec3_hero2{
     display: flex;
     width: 100%;
     margin-top: 70px;
-    gap: 80px;
+    gap: 50px;
 }
 
 .sec_3 h2{
