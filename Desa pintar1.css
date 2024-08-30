@@ -75,7 +75,7 @@ body{
 .gambar{
     width:100%;
     height: 900px;
-    background-image: url(../gambar/gambar_desa_pintar.jpg);
+    background-image: url(./gambar/gambar_desa_pintar.jpg);
     display: inline-block;
 }
 
